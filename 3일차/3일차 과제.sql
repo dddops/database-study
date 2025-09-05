@@ -1,4 +1,4 @@
-wwwwwwwwwwwwwwwwwww-- CREATE DATABASE db_day_3
+-- CREATE DATABASE db_day_3
 -- CREATE table employees (
 -- 	id INT AUTO_INCREMENT PRIMARY KEY,
 --     name VARCHAR(100),
